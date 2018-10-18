@@ -1,0 +1,17 @@
+README:
+
+Andrew Kyburz
+akyburz@u.rochester.edu
+
+CSC 171 Summer Session 2017
+ID: 28266051
+
+I did not collaborate with anyone on this assignment.
+
+Main game file is titled: Game.java
+
+Use integers to communicate with the console. 
+Anything other than an integer selection will cause a run-time error. 
+
+Information display is pretty straight forward.
+
